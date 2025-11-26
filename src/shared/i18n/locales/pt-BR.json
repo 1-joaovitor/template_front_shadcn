@@ -1,0 +1,145 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "save": "Salvar",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "actions": "Ações",
+    "back": "Voltar",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "close": "Fechar"
+  },
+  "auth": {
+    "login": {
+      "title": "Bem-vindo",
+      "subtitle": "Entre com suas credenciais para continuar",
+      "email": "Email",
+      "password": "Senha",
+      "emailPlaceholder": "seu@email.com",
+      "passwordPlaceholder": "••••••••",
+      "submit": "Entrar",
+      "submitting": "Entrando...",
+      "success": "Login realizado com sucesso!",
+      "successDescription": "Bem-vindo de volta!",
+      "error": "Erro ao fazer login",
+      "errorDescription": "Credenciais inválidas",
+      "demoCredentials": "Use:",
+      "demoEmail": "admin@example.com",
+      "demoPassword": "admin123"
+    },
+    "logout": {
+      "title": "Logout realizado",
+      "description": "Até logo!"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "greeting": "Olá, {{name}}! 👋",
+    "welcome": "Bem-vindo ao seu painel de controle",
+    "stats": {
+      "totalSales": "Total de Vendas",
+      "activeUsers": "Usuários Ativos",
+      "growth": "Crescimento",
+      "activity": "Atividade",
+      "changeFromLastMonth": "em relação ao mês anterior"
+    },
+    "permissions": {
+      "title": "Permissões",
+      "description": "Suas permissões atuais no sistema"
+    },
+    "accountInfo": {
+      "title": "Informações da Conta",
+      "description": "Detalhes do seu perfil",
+      "name": "Nome",
+      "email": "Email",
+      "role": "Função"
+    },
+    "adminArea": {
+      "title": "Área Administrativa",
+      "description": "Você tem permissões de administrador"
+    },
+    "charts": {
+      "salesOverTime": {
+        "title": "Vendas ao Longo do Tempo",
+        "description": "Evolução mensal de vendas e usuários"
+      },
+      "monthlyComparison": {
+        "title": "Comparativo Mensal",
+        "description": "Vendas vs Usuários por mês"
+      }
+    },
+    "users": {
+      "title": "Usuários",
+      "description": "Lista de usuários do sistema",
+      "user": "Usuário",
+      "role": "Função",
+      "permissions": "Permissões",
+      "noUsers": "Nenhum usuário encontrado"
+    }
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "components": "Componentes",
+    "table": "Tabela de Dados",
+    "users": "Usuários",
+    "settings": "Configurações"
+  },
+  "header": {
+    "profile": "Perfil",
+    "logout": "Sair"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Escuro",
+    "system": "Sistema"
+  },
+  "language": {
+    "title": "Idioma",
+    "pt-BR": "Português",
+    "en": "English"
+  },
+  "errors": {
+    "404": {
+      "title": "Página não encontrada",
+      "description": "A página que você está procurando não existe ou foi movida."
+    },
+    "403": {
+      "title": "Acesso negado",
+      "description": "Você não tem permissão para acessar esta página."
+    },
+    "500": {
+      "title": "Erro interno do servidor",
+      "description": "Ocorreu um erro inesperado. Por favor, tente novamente mais tarde."
+    },
+    "generic": {
+      "title": "Algo deu errado",
+      "description": "Ocorreu um erro inesperado. Por favor, tente novamente.",
+      "tryAgain": "Tentar Novamente",
+      "reload": "Recarregar Página"
+    },
+    "sessionExpired": "Sessão expirada. Por favor, faça login novamente.",
+    "noPermission": "Você não tem permissão para realizar esta ação.",
+    "notFound": "Recurso não encontrado.",
+    "serverError": "Erro no servidor. Tente novamente mais tarde.",
+    "connectionError": "Erro de conexão. Verifique sua internet."
+  },
+  "permissions": {
+    "read": "Leitura",
+    "write": "Escrita",
+    "delete": "Exclusão",
+    "manage": "Gerenciamento"
+  },
+  "roles": {
+    "admin": "Administrador",
+    "user": "Usuário",
+    "guest": "Visitante"
+  }
+}
+
